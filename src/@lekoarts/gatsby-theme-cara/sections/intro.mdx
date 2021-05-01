@@ -1,3 +1,17 @@
-# Hi, I'm Jane Doe
+import Typewriter from "typewriter-effect"
+import { Flex, Box, Image } from "theme-ui"
 
-I'm creating noice web experiences for the next generation of consumer-facing companies
+<Flex sx={{flexWrap: "wrap", alignItems: "center", justifyContent: ["flex-start", "space-between"]}}>
+  <Image src="rakesh.jpg" width="164" height="164" sx={{borderRadius:"50%", border:"8px inset", borderColor:"avatar_border"}}/>
+  <div>
+    <h1>Hi! I'm Rakesh Seervi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"/> </h1>
+    <Typewriter
+          options={{
+            strings: ["Software Developer", "Engineering Student", "Problem Solver", "Web Developer", "Flutter Developer", "Django Developer", "Cricket Lover"],
+            autoStart: true,
+            loop: true,
+            skipAddStyles: true,
+          }}
+        />
+  </div>
+</Flex>
