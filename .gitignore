@@ -67,3 +67,8 @@ public
 .idea
 .vscode
 .DS_Store
+
+package-lock.json
+yarn.lock
+svg.tsx
+utils.tsx
