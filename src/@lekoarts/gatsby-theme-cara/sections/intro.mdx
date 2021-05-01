@@ -1,7 +1,9 @@
 import Typewriter from "typewriter-effect"
 import { Flex, Box, Image } from "theme-ui"
 
-<Flex sx={{flexWrap: "wrap", alignItems: "center", justifyContent: ["flex-start", "space-around"]}}>
+<Flex sx={{flexWrap: "wrap", alignItems: "center", justifyContent: "flex-start", 
+  '@media screen and (min-width: 1400px)': {justifyContent: 'space-around'},
+    }}>
   <Image src="rakesh.jpg" width="164" height="164" sx={{borderRadius:"50%", border:"8px inset", borderColor:"avatar_border"}}/>
   <div>
     <h1>Hi! I'm Rakesh Seervi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"/> </h1>
