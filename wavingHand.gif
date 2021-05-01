@@ -1,0 +1,114 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Discover &amp; share this Animated Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+      <meta name="robots" content="noindex, follow" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+    <meta property="og:title" content="Animated Sticker for iOS &amp; Android | GIPHY">
+    <meta property="og:description" content="Discover &amp; share this Animated Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="241">
+    <meta property="og:image:height" content="234">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4">
+    <meta property="og:video:url" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="241">
+    <meta property="og:video:height" content="234">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Animated Sticker for iOS &amp; Android | GIPHY">
+    <meta name="twitter:creator" content="@giphy">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="Discover &amp; share this Animated Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif">
+    <meta name="twitter:image" content="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/hvRJCLFzcasrR4ia7z/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="422">
+    
+
+    
+    <meta name="rating" content="">
+    <meta name="image:rating" content="no rating">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="Discover &amp; share this Animated Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers."/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="transparent, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Animated Sticker for iOS &amp; Android | GIPHY oEmbed Lookup" />
+    
+    <title>Animated Sticker for iOS &amp; Android | GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+        <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_s.gif" alt=""
+            style="position:absolute;left:50%;top:50%;width:480px;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);" />
+        
+    </article>
+
+    <!--DIDOMI-->
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+        var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("8878f527-7872-49a5-abd4-f6b2e56cb64a")})();</script>          <!-- END DIDOMI -->
+
+    <!-- Google Analytics -->
+    <script type="didomi/javascript" data-vendor="c:googleana-jHcphUGX">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    ga('require', 'GTM-WXRB58X');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <script src="/static/dist/runtime.6d849fd1.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.20afcb86.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"type": "gif", "index_id": 101152142, "slug": "transparent-hvRJCLFzcasrR4ia7z", "url": "https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z", "short_url": "https://gph.is/st/MWK3rPM", "username": "gautamkrishnar", "rating": "", "source_image_url": "/tmp/akka-http-upload5868321066443631620.tmp.gif", "source_post_url": "", "source_content_url": "", "source_tld": "", "source_domain": "", "source_caption": "", "source_body": "", "is_hidden": false, "is_removed": false, "is_community": true, "is_anonymous": false, "is_featured": false, "is_realtime": false, "is_indexable": false, "is_sticker": true, "is_preserve_size": false, "import_datetime": "2020-08-08T15:30:51+00:00", "create_datetime": "2020-08-08T15:30:56+00:00", "update_datetime": "2020-08-08T15:30:56+00:00", "trending_datetime": null, "featured_tags": [], "user_tags": [{"name": "giphyupload"}, {"name": "transparent"}], "renditions": {"fixed_width": {"height": 194, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.mp4", "mp4_size": 46134, "size": 114235, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp", "webp_size": 135552, "width": 200}, "downsized_still": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif", "width": 241}, "fixed_height_still": {"height": 200, "size": 3312, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_s.gif", "width": 206}, "looping": {"mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-loop.mp4", "mp4_size": 692612}, "source": {"height": 234, "size": 268948, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/source.gif", "width": 241}, "preview": {"height": 210, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.mp4", "mp4_size": 24450, "width": 215}, "downsized_medium": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}, "preview_gif": {"height": 234, "size": 30587, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.gif", "width": 241}, "fixed_width_downsampled": {"height": 194, "size": 17945, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_d.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_d.webp", "webp_size": 18324, "width": 200}, "downsized": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}, "original": {"frames": 42, "hash": "cad5918d86b6a7e83f1fb4acead70e4c", "height": 234, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4", "mp4_size": 108642, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp", "webp_size": 72730, "width": 241}, "fixed_width_small": {"height": 97, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.mp4", "mp4_size": 21848, "size": 52746, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.webp", "webp_size": 64176, "width": 100}, "fixed_height": {"height": 200, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.mp4", "mp4_size": 48286, "size": 118777, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.webp", "webp_size": 138988, "width": 206}, "fixed_height_downsampled": {"height": 200, "size": 18540, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_d.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_d.webp", "webp_size": 18756, "width": 206}, "fixed_width_small_still": {"height": 97, "size": 1719, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w_s.gif", "width": 100}, "preview_webp": {"height": 234, "size": 27770, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.webp", "width": 241}, "fixed_height_small": {"height": 100, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.mp4", "mp4_size": 21912, "size": 54286, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.webp", "webp_size": 65842, "width": 103}, "original_mp4": {"height": 466, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4", "mp4_size": 108642, "width": 480}, "original_still": {"height": 234, "size": 6372, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif", "width": 241}, "fixed_width_still": {"height": 194, "size": 3238, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_s.gif", "width": 200}, "downsized_small": {"height": 234, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-downsized-small.mp4", "mp4_size": 59236, "width": 240}, "fixed_height_small_still": {"height": 100, "size": 1768, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100_s.gif", "width": 103}, "downsized_large": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}}, "title": "Animated Sticker", "cta": {"link": null, "text": null}, "id": "hvRJCLFzcasrR4ia7z", "embed_url": "https://giphy.com/embed/hvRJCLFzcasrR4ia7z", "bitly_url": "https://gph.is/st/MWK3rPM", "images": {"fixed_width": {"height": 194, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.mp4", "mp4_size": 46134, "size": 114235, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w.webp", "webp_size": 135552, "width": 200}, "downsized_still": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif", "width": 241}, "fixed_height_still": {"height": 200, "size": 3312, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_s.gif", "width": 206}, "looping": {"mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-loop.mp4", "mp4_size": 692612}, "source": {"height": 234, "size": 268948, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/source.gif", "width": 241}, "preview": {"height": 210, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.mp4", "mp4_size": 24450, "width": 215}, "downsized_medium": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}, "preview_gif": {"height": 234, "size": 30587, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.gif", "width": 241}, "fixed_width_downsampled": {"height": 194, "size": 17945, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_d.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_d.webp", "webp_size": 18324, "width": 200}, "downsized": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}, "original": {"frames": 42, "hash": "cad5918d86b6a7e83f1fb4acead70e4c", "height": 234, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4", "mp4_size": 108642, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp", "webp_size": 72730, "width": 241}, "fixed_width_small": {"height": 97, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.mp4", "mp4_size": 21848, "size": 52746, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w.webp", "webp_size": 64176, "width": 100}, "fixed_height": {"height": 200, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.mp4", "mp4_size": 48286, "size": 118777, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200.webp", "webp_size": 138988, "width": 206}, "fixed_height_downsampled": {"height": 200, "size": 18540, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_d.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200_d.webp", "webp_size": 18756, "width": 206}, "fixed_width_small_still": {"height": 97, "size": 1719, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100w_s.gif", "width": 100}, "preview_webp": {"height": 234, "size": 27770, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-preview.webp", "width": 241}, "fixed_height_small": {"height": 100, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.mp4", "mp4_size": 21912, "size": 54286, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.gif", "webp": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100.webp", "webp_size": 65842, "width": 103}, "original_mp4": {"height": 466, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.mp4", "mp4_size": 108642, "width": 480}, "original_still": {"height": 234, "size": 6372, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy_s.gif", "width": 241}, "fixed_width_still": {"height": 194, "size": 3238, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/200w_s.gif", "width": 200}, "downsized_small": {"height": 234, "mp4": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-downsized-small.mp4", "mp4_size": 59236, "width": 240}, "fixed_height_small_still": {"height": 100, "size": 1768, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/100_s.gif", "width": 103}, "downsized_large": {"height": 234, "size": 150006, "url": "https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", "width": 241}}, "relative_url": "/gifs/transparent-hvRJCLFzcasrR4ia7z", "has_attribution": false, "is_favorite": false, "tags": ["transparent"], "user": {"id": 1078987, "profile_url": "https://giphy.com/channel/gautamkrishnar", "profile_path": "/channel/gautamkrishnar", "display_name": "", "username": "gautamkrishnar", "name": "gautamkrishnar", "avatar_url": "https://media.giphy.com/avatars/default1.gif", "banner_url": null, "is_public": true, "is_verified": false, "is_freelance": false, "is_community": false, "attribution_display_name": "gautamkrishnar", "suppress_chrome": false, "website_url": null, "website_display_url": null, "description": "", "facebook_url": null, "twitter": "", "twitter_url": null, "instagram_url": null, "authenticated_instagram_url": null, "tumblr_url": null, "tiktok_url": null, "youtube_url": null, "disable_freelance_popup": false}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: 'giphy.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term='
+            });
+        }
+    </script>
+  </body>
+</html>
